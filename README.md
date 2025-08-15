@@ -5,7 +5,7 @@ A modern, responsive dashboard built with Next.js 14, TypeScript, and Tailwind C
 
 ## 🌟 Live Demo
 
-[View Live Demo](your-vercel-url-here)
+[View Live Demo](https://news-weather-final.vercel.app/)
 
 ## 🚀 Features
 
@@ -198,5 +198,5 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
  
 =======
-# news_weather_final
+
 >>>>>>> 64e5193909e0bb390e96d3dc3a2f15a485fef730
